@@ -1,10 +1,5 @@
 # Kanc-shop
 🛒 Канцелярино — система управления канцелярским магазином
-https://img.shields.io/badge/Python-3.8%252B-blue
-https://img.shields.io/badge/Django-4.2%252B-green
-https://img.shields.io/badge/Bootstrap-5.0-purple
-https://img.shields.io/badge/SQLite-DB-yellow
-https://img.shields.io/badge/License-Educational-orange
 
 Веб-приложение для автоматизации учета товаров, продаж и складских операций в канцелярском магазине. Разработано в рамках учебного проекта.
 
@@ -26,8 +21,6 @@ https://img.shields.io/badge/License-Educational-orange
 🖥️ Технологический стек
 Компонент	Технология
 Backend	Python 3.8+, Django 4.2+
-Frontend	HTML5, CSS3, JavaScript, Bootstrap 5
-База данных	SQLite
 Стили	Bootstrap 5, Custom CSS
 IDE	PyCharm (Community Edition)
 🚀 Быстрый старт
